@@ -1,0 +1,15 @@
+.sectionContainer {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.sectionButton {
+    height: 90px;
+    width: 80%;
+    margin-left: auto;
+    margin-Right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 36px;
+}
